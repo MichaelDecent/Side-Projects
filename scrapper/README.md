@@ -5,8 +5,8 @@ This project involves web scraping a list of members of parliament from a given 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- You have Python 3 installed on your machine. If not, download and install it from [python.org](https://www.python.org/downloads/).
-- You have `pip` installed. If not, follow the instructions [here](https://pip.pypa.io/en/stable/installation/).
+- Python3
+- `pip` 
 
 ## Step-by-Step Guide
 
@@ -89,4 +89,3 @@ Before you begin, ensure you have met the following requirements:
 ## Additional Notes
 
 - Ensure you have an active internet connection when running the script as it fetches data from an online source.
-- If the webpage structure changes, the script might need adjustments to correctly locate and extract the desired information.
