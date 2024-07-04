@@ -1,85 +1,831 @@
 [
     {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Dr. W. McKeeva Bush, JP, Hon MSc, MLA",
+        "member_role": "Speaker"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Alden McLaughlin, MBE, JP, MLA",
+        "member_role": "Premier, Minister for Human Resources, Immigration, Community Affairs, International Trade, Investment, Aviation and Maritime Affairs"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Alden McLaughlin, MBE, JP, MLA",
+        "member_role": "Premier, Minister for Human Resources, Immigration, Community Affairs, International Trade, Investment, Aviation and Maritime Affairs"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Moses I. Kirkconnell, JP, MLA",
+        "member_role": "Deputy Premier, Minister of District Administration, Tourism & Transport"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Moses I. Kirkconnell, JP, MLA",
+        "member_role": "Deputy Premier, Minister of District Administration, Tourism & Transport"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Roy M. McTaggart, JP, MLA",
+        "member_role": "Minister of Minister of Public Finance and Economic Development"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Roy M. McTaggart, JP, MLA",
+        "member_role": "Minister of Minister of Public Finance and Economic Development"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Tara A. Rivers, JP, MLA",
+        "member_role": "Minister of Financial Services & Home Affairs"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Tara A. Rivers, JP, MLA",
+        "member_role": "Minister of Financial Services & Home Affairs"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Joseph X. Hew, JP, MLA",
+        "member_role": "Minister of Commerce, Planning, and Infrastruture"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Joseph X. Hew, JP, MLA",
+        "member_role": "Minister of Commerce, Planning, and Infrastruture"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Juliana O’Connor-Connolly, JP, MLA",
+        "member_role": "Minister of Education, Youth, Sports, Agriculture and Lands"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Juliana O’Connor-Connolly, JP, MLA",
+        "member_role": "Minister of Education, Youth, Sports, Agriculture and Lands"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Dwayne S. Seymour, JP, MLA",
+        "member_role": "Minister of Health, Environment, Culture and Housing"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Dwayne S. Seymour, JP, MLA",
+        "member_role": "Minister of Health, Environment, Culture and Housing"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Franz. I. Manderson, MBE, Cert. Hon, JP",
+        "member_role": "Deputy Governor, Ex-officio Member responsible for the Portfolio of the Civil Service"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Samuel Bulgin, QC, JP",
+        "member_role": "Attorney General, Ex-officio Member responsible for the Portfolio of Legal Affairs"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Bernie Bush, MLA",
+        "member_role": "Deputy Speaker (31st January 2020), Independent Opposition Member (as of 23rd April 2020)"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks, JP, MLA",
+        "member_role": "West Bay Central"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks, JP, MLA",
+        "member_role": "West Bay Central"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. David C. Wight, MLA",
+        "member_role": "George Town South"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. David C. Wight, MLA",
+        "member_role": "George Town South"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Barbara E. Conolly, MLA",
+        "member_role": "Presiding Officer (20th May 2020 – 31st July 2020), Deputy Speaker (starting 14th October 2020)"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Austin O. Harris, MLA",
+        "member_role": "Prospect"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Austin O. Harris, MLA",
+        "member_role": "Prospect"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Ezzard Miller, MLA",
+        "member_role": "Leader of the Opposition up to 12th April 2019"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Ezzard Miller, MLA",
+        "member_role": "Leader of the Opposition up to 12th April 2019"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Alva H. Suckoo, MLA",
+        "member_role": "Deputy Leader of the Opposition"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Alva H. Suckoo, MLA",
+        "member_role": "Deputy Leader of the Opposition"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Arden McLean, JP, MLA",
+        "member_role": "Leader of the Opposition (starting 5th June 2019)"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Arden McLean, JP, MLA",
+        "member_role": "Leader of the Opposition (starting 5th June 2019)"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Anthony S. Eden, OBE, JP, MLA",
+        "member_role": "Presiding Officer (22nd-23rd April, 2020), Deputy Speaker (starting 14th October, 2020)"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Hon. Anthony S. Eden, OBE, JP, MLA",
+        "member_role": "Presiding Officer (22nd-23rd April, 2020), Deputy Speaker (starting 14th October, 2020)"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Christopher S. Saunders, MLA",
+        "member_role": "Bodden Town West"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Christopher S. Saunders, MLA",
+        "member_role": "Bodden Town West"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Kenneth V. Bryan, MLA",
+        "member_role": "George Town Central"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "Mr. Kenneth V. Bryan, MLA",
+        "member_role": "George Town Central"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Alden McLaughlin, MBE, JP, MLA",
+        "member_role": "Premier, Minister of Home & Community Affairs, Minister of Home Affairs, Health & Culture"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Alden McLaughlin, MBE, JP, MLA",
+        "member_role": "Premier, Minister of Home & Community Affairs, Minister of Home Affairs, Health & Culture"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Moses I. Kirkconnell, JP, MLA",
+        "member_role": "Deputy Premier, Minister of District Administration, Tourism & Transport"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Moses I. Kirkconnell, JP, MLA",
+        "member_role": "Deputy Premier, Minister of District Administration, Tourism & Transport"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Tara A. Rivers, MLA",
+        "member_role": "Minister of Education, Employment & Gender Affairs"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Tara A. Rivers, MLA",
+        "member_role": "Minister of Education, Employment & Gender Affairs"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. D. Kurt Tibbetts, OBE, JP, MLA",
+        "member_role": "Minister of Commerce, Planning, and Infrastruture"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. D. Kurt Tibbetts, OBE, JP, MLA",
+        "member_role": "Minister of Commerce, Planning, and Infrastruture"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Marco S. Archer, MLA",
+        "member_role": "Minister of Finance & Economic Development"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Marco S. Archer, MLA",
+        "member_role": "Minister of Finance & Economic Development"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Osbourne V. Bodden, MLA",
+        "member_role": "Minister of Health, Sports, Youth & Culture"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Osbourne V. Bodden, MLA",
+        "member_role": "Minister of Health, Sports, Youth & Culture"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. G. Wayne Panton, MLA",
+        "member_role": "Minister of Financial Services, Commerce & Environment"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. G. Wayne Panton, MLA",
+        "member_role": "Minister of Financial Services, Commerce & Environment"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Franz I. Manderson, Cert. Hon, JP",
+        "member_role": "Deputy Governor"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Franz I. Manderson, Cert. Hon, JP",
+        "member_role": "Deputy Governor"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Samuel W. Bulgin, QC, JP",
+        "member_role": "Attorney General"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Samuel W. Bulgin, QC, JP",
+        "member_role": "Attorney General"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Anthony S. Eden, OBE, JP, MLA",
+        "member_role": "Deputy Speaker"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. Anthony S. Eden, OBE, JP, MLA",
+        "member_role": "Deputy Speaker"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Roy McTaggart, MLA",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Roy McTaggart, MLA",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Winston C. Connolly, Jr, MLA",
+        "member_role": "George Town South"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Winston C. Connolly, Jr, MLA",
+        "member_role": "George Town South"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Joseph X. Hew, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Joseph X. Hew, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Alva H. Suckoo, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Alva H. Suckoo, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Ezzard Miller, MLA",
+        "member_role": "North Side"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Ezzard Miller, MLA",
+        "member_role": "North Side"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Arden McLean, JP, MLA",
+        "member_role": "East End"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Arden McLean, JP, MLA",
+        "member_role": "East End"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. W. McKeeva Bush, OBE, JP, MLA",
+        "member_role": "Leader of the Opposition"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Hon. W. McKeeva Bush, OBE, JP, MLA",
+        "member_role": "Leader of the Opposition"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Bernie A. Bush, MLA",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Mr. Bernie A. Bush, MLA",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks, JP, MLA",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2013-2017 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks, JP, MLA",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. W. McKeeva Bush, OBE, JP, MLA",
+        "member_role": "Leader of Government Business (ending 6th November 2009); Premier (18th November 2009 – 18th December 2012); Minister of Financial Services, Tourism & Development (ending 18th December 2012); Opposition Member (starting 18th December 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. W. McKeeva Bush, OBE, JP, MLA",
+        "member_role": "Leader of Government Business (ending 6th November 2009); Premier (18th November 2009 – 18th December 2012); Minister of Financial Services, Tourism & Development (ending 18th December 2012); Opposition Member (starting 18th December 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Juliana O’Connor-Connolly, JP, MLA",
+        "member_role": "Minister of District Administration, Works & Gender Affairs; Deputy Premier (6th November 2009 – 18th December 2012); Premier (starting 18th December 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Juliana O’Connor-Connolly, JP, MLA",
+        "member_role": "Minister of District Administration, Works & Gender Affairs; Deputy Premier (6th November 2009 – 18th December 2012); Premier (starting 18th December 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Rolston M. Anglin, MLA",
+        "member_role": "Minister of Education, Training & Employment; Deputy Premier (starting 18th December 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Rolston M. Anglin, MLA",
+        "member_role": "Minister of Education, Training & Employment; Deputy Premier (starting 18th December 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Michael T. Adam, MLA",
+        "member_role": "Minister of Community Affairs, Gender & Housing"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Michael T. Adam, MLA",
+        "member_role": "Minister of Community Affairs, Gender & Housing"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Mark Scotland, MLA",
+        "member_role": "Minister of Health, Environment, Youth, Sports & Culture"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Mark Scotland, MLA",
+        "member_role": "Minister of Health, Environment, Youth, Sports & Culture"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Franz Manderson, Cert. Hon, JP",
+        "member_role": "Acting Deputy Governor; Deputy Governor (starting 4th April 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Franz Manderson, Cert. Hon, JP",
+        "member_role": "Acting Deputy Governor; Deputy Governor (starting 4th April 2012)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Samuel Bulgin, QC",
+        "member_role": "Attorney General"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Samuel Bulgin, QC",
+        "member_role": "Attorney General"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Cline A. Glidden, MLA",
+        "member_role": "Deputy Speaker"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Cline A. Glidden, MLA",
+        "member_role": "Deputy Speaker"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks, JP, MLA",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks, JP, MLA",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Ellio Solomon, MLA",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Ellio Solomon, MLA",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Dwayne Seymour, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Dwayne Seymour, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. D. Kurt Tibbetts, JP, MLA",
+        "member_role": "Leader of the Opposition (ending 21st February 2011)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. D. Kurt Tibbetts, JP, MLA",
+        "member_role": "Leader of the Opposition (ending 21st February 2011)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Alden M. McLaughlin, JP, MLA",
+        "member_role": "Leader of the Opposition (starting 21st February 2011)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Hon. Alden M. McLaughlin, JP, MLA",
+        "member_role": "Leader of the Opposition (starting 21st February 2011)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Moses I. Kirkconnell, JP, MLA",
+        "member_role": "Deputy Leader of the Opposition (10th January 2013)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Moses I. Kirkconnell, JP, MLA",
+        "member_role": "Deputy Leader of the Opposition (10th January 2013)"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Anthony S. Eden, OBE, JP, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Anthony S. Eden, OBE, JP, MLA",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. V. Arden McLean, JP, MLA",
+        "member_role": "Cayman Brac & Little Cayman"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. V. Arden McLean, JP, MLA",
+        "member_role": "Cayman Brac & Little Cayman"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Ezzard Miller, JP, MLA",
+        "member_role": "North Side"
+    },
+    {
+        "tenure": "2009-2013 Elected Members of Parliament",
+        "member_name": "Mr. Ezzard Miller, JP, MLA",
+        "member_role": "North Side"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Edna M. Moyle, OBE, JP, MLA",
+        "member_role": "Speaker"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. D. Kurt Tibbetts, OBE, JP",
+        "member_role": "Leader of Government Business, Minister for Planning, Communications, District Administration and Information Technology (ending 30th June 2005); Minister of District Administration, Planning, Agriculture and Housing (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. D. Kurt Tibbetts, OBE, JP",
+        "member_role": "Leader of Government Business, Minister for Planning, Communications, District Administration and Information Technology (ending 30th June 2005); Minister of District Administration, Planning, Agriculture and Housing (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Alden M. McLaughlin, Jr",
+        "member_role": "Minister of Education, Human Resources and Culture (ending 30th June 2005); Minister of Education, Training, Employment, Youth, Sports & Culture (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Alden M. McLaughlin, Jr",
+        "member_role": "Minister of Education, Human Resources and Culture (ending 30th June 2005); Minister of Education, Training, Employment, Youth, Sports & Culture (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Anthony S. Eden, OBE, JP",
+        "member_role": "Minister of Health Services, Agriculture, Aviation & Works (ending 30th June 2005); Minister of Health & Human Services (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Anthony S. Eden, OBE, JP",
+        "member_role": "Minister of Health Services, Agriculture, Aviation & Works (ending 30th June 2005); Minister of Health & Human Services (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Charles E. Clifford, JP",
+        "member_role": "Ministry of Tourism, Environment, Development & Commerce (ending 30th June 2005); Minister of Tourism, Environment, Investment & Commerce (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Charles E. Clifford, JP",
+        "member_role": "Ministry of Tourism, Environment, Development & Commerce (ending 30th June 2005); Minister of Tourism, Environment, Investment & Commerce (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. V. Arden McLean, JP",
+        "member_role": "Minister of Community Services, Youth, Sports & Gender Affairs (ending 30th June 2005); Minister of Communications, Works & Infrastructure (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. V. Arden McLean, JP",
+        "member_role": "Minister of Community Services, Youth, Sports & Gender Affairs (ending 30th June 2005); Minister of Communications, Works & Infrastructure (starting 1st July 2005)"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. George A. McCarthy, OBE, JP",
+        "member_role": "Chief Secretary"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. George A. McCarthy, OBE, JP",
+        "member_role": "Chief Secretary"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Samuel W. Bulgin, QC",
+        "member_role": "Attorney General"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. Samuel W. Bulgin, QC",
+        "member_role": "Attorney General"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. G. Kenneth Jefferson, JP",
+        "member_role": "Financial Secretary"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. G. Kenneth Jefferson, JP",
+        "member_role": "Financial Secretary"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Ms. Lucille D. Seymour",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Ms. Lucille D. Seymour",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. W. Alfonso Wright",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. W. Alfonso Wright",
+        "member_role": "George Town"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Osbourne V. Bodden",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Osbourne V. Bodden",
+        "member_role": "Bodden Town"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Moses I. Kirkconnell, JP",
+        "member_role": "Cayman Brac & Little Cayman"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Moses I. Kirkconnell, JP",
+        "member_role": "Cayman Brac & Little Cayman"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. W. McKeeva Bush, OBE, JP",
+        "member_role": "Leader of the Opposition"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Hon. W. McKeeva Bush, OBE, JP",
+        "member_role": "Leader of the Opposition"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Rolston M. Anglin",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Rolston M. Anglin",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Cline A. Glidden, Jr",
+        "member_role": "Deputy Speaker"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mr. Cline A. Glidden, Jr",
+        "member_role": "Deputy Speaker"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Capt. A. Eugene Ebanks",
+        "member_role": "West Bay"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mrs. Juliana O’Connor-Connolly, JP",
+        "member_role": "Cayman Brac & Little Cayman"
+    },
+    {
+        "tenure": "2005-2009 Elected Members of Parliament",
+        "member_name": "Mrs. Juliana O’Connor-Connolly, JP",
+        "member_role": "Cayman Brac & Little Cayman"
+    },
+    {
+        "tenure": "2017-2021 Elected Members of Parliament",
+        "member_name": "2017-2021 Elected Members of Parliament",
+        "member_role": "Speaker"
+    },
+    {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Sir Alden McLaughlin",
         "member_role": "Speaker"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Juliana Y. O’Connor-Connolly",
         "member_role": "Premier, Minister of Finance, Education, District Administration and Lands, and Cabinet Office"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. André M. Ebanks",
         "member_role": "Deputy Premier, Minister of Financial Services & Commerce and Investment, and Innovation & Social Development"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Kenneth V. Bryan",
         "member_role": "Minister of Tourism & Ports"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Sabrina T. Turner",
         "member_role": "Minister of Health & Wellness and Home Affairs"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Johany S. “Jay” Ebanks",
         "member_role": "Minister of Planning, Agriculture, Housing & Infrastructure"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Isaac D. Rankine",
         "member_role": "Minister of Youth, Sports & Heritage"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Katherine A. Ebanks-Wilks",
         "member_role": "Minister of Sustainability & Climate Resiliency"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Dwayne S. Seymour",
         "member_role": "Minister of Border Control & Labour and Culture"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Franz. I. Manderson",
         "member_role": "Deputy Governor, Portfolio of the Civil Service, Ex-officio Member"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Samuel Bulgin",
         "member_role": "Attorney General, Portfolio of Legal Affairs, Ex-officio Member"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Heather D. Bodden, OCI, Cert. Hon.",
         "member_role": "Parliamentary Secretary to Tourism and Social Development, Deputy Speaker"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Dr. W. McKeeva Bush",
         "member_role": "Member of Government"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Mr. Bernie A. Bush",
         "member_role": "Parliamentary Secretary"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. Roy M. McTaggart",
         "member_role": "Leader of the Opposition, Chair of the Public Accounts Committee"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Mr. Joseph X. Hew",
         "member_role": "Deputy Leader of the Opposition"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Mr. Moses I. Kirkconnell",
         "member_role": "Member of the Opposition"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Ms. Barbara E. Conolly",
         "member_role": "Member of the Opposition"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Mr. David C. Wight",
         "member_role": "Member of the Opposition"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Hon. G. Wayne Panton",
         "member_role": "Independent Opposition Member"
     },
     {
+        "tenure": "2021-2025 Members",
         "member_name": "Mr. Christopher S. Saunders",
         "member_role": "Independent Opposition Member"
     }
