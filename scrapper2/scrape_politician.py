@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+from deep_translator import GoogleTranslator
 
 url = "https://www.meineabgeordneten.at/Abgeordnete?partei="
 response = requests.get(url)
@@ -11,9 +12,16 @@ soup = BeautifulSoup(response.content, "html.parser")
 
 politician_list = soup.find_all("div", class_="col-9 col-md-8 col-lg-7")
 
+translator = GoogleTranslator(source="de", target="en")
 
 for politician in politician_list:
     function = politician.find("div", class_="untertitel").text.strip()
+    try:
+        function_translated = translator.translate(function)
+    except Exception as e:
+        print("Error: ", e)
+        break
+
     politician_details = politician.find("span", class_="name")
     prefix = (
         politician_details.find(
@@ -42,8 +50,7 @@ for politician in politician_list:
 
     full_name = f"{prefix} {given_name} {family_name}"
 
-    politicians.append({"full_name": full_name, "function": function})
-
+    politicians.append({"full_name": full_name, "function": function_translated})
 
 with open("politicians.json", "w") as json_file:
     json.dump(politicians, json_file, indent=4, ensure_ascii=False)
