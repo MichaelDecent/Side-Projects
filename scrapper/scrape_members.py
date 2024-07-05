@@ -31,30 +31,28 @@ for tenure in tenure_list:
         else ""
     )
 
-    member_list = section.find_all("div")
+    member_list = section.find_all("div", class_="elementor-widget-container")
 
     for member in member_list:
-        div = member.find("div", class_="elementor-widget-container")
-
-        if div:
-            member_name = div.find("p").text.strip() if div.find("p") else None
-            if member_name:
-                member_role = (
-                    member.find("li").text.strip() if member.find("li") else None
-                )
-                if not member_role:
-                    continue
-                members.append(
-                    {
-                        "tenure": tenure_time,
-                        "member_name": member_name,
-                        "member_role": member_role,
-                    }
-                )
-            member_name = (
-                div.find(string=True, recursive=False).strip() if div.text else None
+        member_name = member.find("p").text.strip() if member.find("p") else None
+        if member_name:
+            member_role = (
+                member.find("li").text.strip() if member.find("li") else None
             )
-            member_role = div.find("li").text.strip() if div.find("li") else None
+            if not member_role:
+                continue
+            members.append(
+                {
+                    "tenure": tenure_time,
+                    "member_name": member_name,
+                    "member_role": member_role,
+                }
+            )
+            continue
+        member_name = (
+            member.find(string=True, recursive=False).strip() if member.text else None
+        )
+        member_role = member.find("li").text.strip() if member.find("li") else None
         if not member_name or not member_role or member_role == "Speaker":
             continue
         members.append(
