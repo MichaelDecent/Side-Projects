@@ -78,7 +78,7 @@ while True:
                 )
 
             member_list.append({"name": name, "role": role, "other_info": other_info})
-
+    print(page_number, "Done!")
     page_number += 1
 
 with open("members_data.json", "w") as jsonfile:
