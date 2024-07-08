@@ -1,44 +1,58 @@
 [
     {
-        "Current": "Hon. Justice Richard N. Williams, LLB"
+        "name": "Hon. Justice Richard N. Williams, LLB",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice Cheryll Richards, KC"
+        "name": "Hon. Justice Cheryll Richards, KC",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice Ian Kawaley"
+        "name": "Hon. Justice Ian Kawaley",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice Nicholas Segal"
+        "name": "Hon. Justice Nicholas Segal",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice Raj Parker"
+        "name": "Hon. Justice Raj Parker",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice David Charles Doyle CBE"
+        "name": "Hon. Justice David Charles Doyle CBE",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice Marlene Carter"
+        "name": "Hon. Justice Marlene Carter",
+        "status": "Current"
     },
     {
-        "Current": "Hon. Justice Jalil Asif"
+        "name": "Hon. Justice Jalil Asif",
+        "status": "Current"
     },
     {
-        "Retired": "Hon. Nigel Clifford, KC"
+        "name": "Hon. Nigel Clifford, KC",
+        "status": "Retired"
     },
     {
-        "Retired": "Hon. Angus Foster, KC, BA, LLB (Hons)"
+        "name": "Hon. Angus Foster, KC, BA, LLB (Hons)",
+        "status": "Retired"
     },
     {
-        "Retired": "Hon. Alexander Henderson, KC, BA, LLB (Hons)"
+        "name": "Hon. Alexander Henderson, KC, BA, LLB (Hons)",
+        "status": "Retired"
     },
     {
-        "Retired": "Hon. Andrew J. Jones, KC"
+        "name": "Hon. Andrew J. Jones, KC",
+        "status": "Retired"
     },
     {
-        "Retired": "Hon. Charles Quin, QC"
+        "name": "Hon. Charles Quin, QC",
+        "status": "Retired"
     },
     {
-        "Retired": "Hon. Robert (Robin) McMillan, BA, LLB"
+        "name": "Hon. Robert (Robin) McMillan, BA, LLB",
+        "status": "Retired"
     }
 ]

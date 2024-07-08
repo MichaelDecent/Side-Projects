@@ -20,7 +20,7 @@ for section in sections:
 
         for judge in current_judges:
             name = judge.find("span", class_="fusion-toggle-heading").text.strip()
-            judges_list.append({status: name})
+            judges_list.append({"name": name, "status": status})
 
 with open("judges_data.json", "w") as jsonfile:
     json.dump(judges_list, jsonfile, indent=4, ensure_ascii=False)
