@@ -2,21 +2,27 @@ import json
 import sys
 
 
-def get_values_from_json(key, json_file):
+def search_value_in_json(value, json_file):
     try:
         with open(json_file, "r") as file:
             data = json.load(file)
 
-            if isinstance(data, list):
-                values = [
-                    item.get(key, None) for item in data if isinstance(item, dict)
-                ]
-            elif isinstance(data, dict):
-                values = [data.get(key, None)]
-            else:
-                values = []
+            def search(data, value):
+                found = []
+                if isinstance(data, dict):
+                    for k, v in data.items():
+                        if v == value:
+                            found.append((k, v))
+                        elif isinstance(v, (dict, list)):
+                            found.extend(search(v, value))
+                elif isinstance(data, list):
+                    for item in data:
+                        found.extend(search(item, value))
+                return found
 
-            return [value for value in values if value is not None]
+            found_items = search(data, value)
+            return found_items
+
     except FileNotFoundError:
         print(f"Error: The file '{json_file}' was not found.")
         return []
@@ -30,14 +36,16 @@ def get_values_from_json(key, json_file):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python script.py <key> <json_file>")
+        print("Usage: python script.py <value> <json_file>")
         sys.exit(1)
 
-    key = sys.argv[1]
+    value = sys.argv[1]
     json_file = sys.argv[2]
 
-    values = get_values_from_json(key, json_file)
-    if values:
-        print(f"Values for key '{key}': {values}")
+    found_items = search_value_in_json(value, json_file)
+    if found_items:
+        print(f"Found items containing value '{value}':")
+        for key, val in found_items:
+            print(f"{key}: {val}")
     else:
-        print(f"No values found for key '{key}' or key does not exist in the file.")
+        print(f"No items found containing value '{value}' in the file.")
